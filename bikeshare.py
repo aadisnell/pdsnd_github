@@ -47,7 +47,7 @@ def get_city():
         return get_time_period()
 
 
-# def get_month():
+def get_month():
     '''Asks the user for a month and returns the specified month.
 
     Args:
