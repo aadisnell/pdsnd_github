@@ -24,7 +24,7 @@ def get_city():
         return get_city()
 
 
-# def get_time_period():
+def get_time_period():
     '''Asks the user for a time period and returns the specified filter.
 
     Args:
