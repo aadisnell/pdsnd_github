@@ -73,7 +73,8 @@ def get_month():
         return get_month()
 
 def get_day():
-    '''Asks the user for a day of the week and returns the specified day.
+    '''Asks the user for a day of the week and returns the specified day
+     monday ,tuesday, wednesday, thursday ,friday.
 
     Args:
         none.
