@@ -24,7 +24,7 @@ def get_city():
         return get_city()
 
 
-# def get_time_period():
+def get_time_period():
     '''Asks the user for a time period and returns the specified filter.
 
     Args:
@@ -73,7 +73,8 @@ def get_month():
         return get_month()
 
 def get_day():
-    '''Asks the user for a day of the week and returns the specified day.
+    '''Asks the user for a day of the week and returns the specified day
+     monday ,tuesday, wednesday, thursday ,friday.
 
     Args:
         none.
